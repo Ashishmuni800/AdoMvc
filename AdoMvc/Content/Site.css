@@ -1,0 +1,10 @@
+﻿form{
+    margin-top:25px;
+}
+table {
+    margin-top: 10px;
+    background-image: src("ashish.jpg")
+}
+body {
+    background-image: url('../image/ashish.jpg');
+}
